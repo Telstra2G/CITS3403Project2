@@ -1,1 +1,1 @@
-This is a github repo for CITS3402 Project 2 for semester 2.
+This is a github repo for CITS3403 Project 2 for semester 2.
